@@ -1,5 +1,5 @@
 from unittest import TestCase
-from p2.bst import BST
+# from p2.bst import BST
 
 
 class TestBST2(TestCase):

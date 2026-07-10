@@ -3,7 +3,4 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10.0
-  - beautifulsoup4
-  - pip:
-      - requests
+  - python=3.12.0
